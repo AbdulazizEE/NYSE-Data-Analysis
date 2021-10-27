@@ -3,6 +3,7 @@
 #Project Submission
 
 #For the final project, you will conduct your own data analysis and create a presentation file to share your findings. 
+
 #You will also create an Excel workbook that contains your calculations of the summary statistics, dashboard and forecast scenarios.
 
 #Submission
